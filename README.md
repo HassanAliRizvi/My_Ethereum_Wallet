@@ -4,11 +4,11 @@ An Ethereum wallet to send or withdraw transactions from one account to another!
 
 # Table of contents
 
- - General Info
- - Technologies
- - Features
- - Setup
- - Usage
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Features](#features)
+* [Setup](#setup)
+* [Usage](#usage)
 
 ## General Info
 
